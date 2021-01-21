@@ -24,3 +24,6 @@ Here is the list of arguments
 * auri : Author URI
 * aemail : Author Email
 
+# Script behavior
+
+
